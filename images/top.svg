@@ -12,9 +12,9 @@
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg32"
    version="1.1"
-   viewBox="0 0 210 297"
-   height="297mm"
-   width="210mm">
+   viewBox="0 0 276.12152 97.328537"
+   height="97.328537mm"
+   width="276.12152mm">
   <defs
      id="defs26">
     <linearGradient
@@ -31,9 +31,9 @@
     </linearGradient>
     <rect
        id="rect51"
-       height="40.18167"
+       height="40.181671"
        width="252.84715"
-       y="72.571429"
+       y="72.571426"
        x="41.577381" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -46,6 +46,10 @@
        inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
      inkscape:window-x="1912"
@@ -55,8 +59,8 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="560"
-     inkscape:cx="-325.71429"
+     inkscape:cy="435.24515"
+     inkscape:cx="-212.48126"
      inkscape:zoom="0.35"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -77,6 +81,7 @@
     </rdf:RDF>
   </metadata>
   <g
+     transform="translate(29.959572,-33.008053)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Calque 1">

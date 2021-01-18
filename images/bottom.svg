@@ -12,9 +12,9 @@
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 210 297"
-   height="297mm"
-   width="210mm">
+   viewBox="0 0 276.12152 90.712883"
+   height="90.712883mm"
+   width="276.12152mm">
   <defs
      id="defs2">
     <linearGradient
@@ -41,6 +41,10 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
      inkscape:window-x="1912"
@@ -50,8 +54,8 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="902.85714"
-     inkscape:cx="90"
+     inkscape:cy="161.78104"
+     inkscape:cx="197.51874"
      inkscape:zoom="0.35"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -72,6 +76,7 @@
     </rdf:RDF>
   </metadata>
   <g
+     transform="translate(28.447667,-196.07639)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Calque 1">
@@ -80,7 +85,7 @@
        inkscape:export-xdpi="96"
        sodipodi:nodetypes="cccccc"
        id="path24"
-       d="m 247.55548,286.67017 -275.88477,-1.67589 v -74.46051 c 46.611387,-7.97526 54.669003,26.96386 136.05244,-5.15629 50.38412,-8.96853 93.22136,-19.09939 139.83233,10.73816 z"
+       d="m 249.06738,288.18207 -277.39667,0.59197 v -78.24027 c 46.611387,-7.97526 54.669003,26.96386 136.05244,-5.15629 50.38412,-8.96853 93.22136,-19.09939 139.83233,10.73816 z"
        style="fill:url(#linearGradient69);fill-opacity:1;stroke:#000000;stroke-width:0.236753px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

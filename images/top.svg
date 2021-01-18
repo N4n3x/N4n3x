@@ -23,11 +23,11 @@
       <stop
          id="stop63"
          offset="0"
-         style="stop-color:#3771c8;stop-opacity:1" />
+         style="stop-color:#ffee7e;stop-opacity:1" />
       <stop
          id="stop65"
          offset="1"
-         style="stop-color:#6600ff;stop-opacity:1" />
+         style="stop-color:#3771c8;stop-opacity:1" />
     </linearGradient>
     <rect
        id="rect51"
@@ -35,13 +35,15 @@
        width="252.84715"
        y="72.571426"
        x="41.577381" />
-    <linearGradient
+    <radialGradient
        gradientUnits="userSpaceOnUse"
-       y2="72.436676"
-       x2="310.29953"
-       y1="75.595238"
-       x1="-27.214287"
-       id="linearGradient69"
+       gradientTransform="matrix(-1.1023661,-0.00255992,0.00126425,-0.50790034,801.62893,-5.4923052)"
+       r="137.94239"
+       fy="-78.57724"
+       fx="503.90341"
+       cy="-78.57724"
+       cx="503.90341"
+       id="radialGradient934"
        xlink:href="#linearGradient67"
        inkscape:collect="always" />
   </defs>
@@ -59,9 +61,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="435.24515"
-     inkscape:cx="-212.48126"
-     inkscape:zoom="0.35"
+     inkscape:cy="344.33606"
+     inkscape:cx="638.669"
+     inkscape:zoom="0.88"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -86,8 +88,8 @@
      inkscape:groupmode="layer"
      inkscape:label="Calque 1">
     <path
-       style="fill:url(#linearGradient69);fill-opacity:1;stroke:#000000;stroke-width:0.236753px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 246.04358,33.127151 -275.884775,1.67588 v 74.460509 c 41.319723,12.51098 59.960673,29.73257 138.320305,15.73962 87.42578,-30.34098 60.7154,-12.65061 137.56447,-21.32149 z"
+       style="fill:url(#radialGradient934);fill-opacity:1;stroke:none;stroke-width:0.232686px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 246.04358,33.127151 -275.884775,0.166688 v 73.376251 c 41.319723,12.08482 59.960673,28.71979 138.320305,15.20348 86.22313,-23.49904 60.7154,-12.21969 137.56447,-20.59521 z"
        id="path24"
        sodipodi:nodetypes="cccccc"
        inkscape:export-xdpi="96"

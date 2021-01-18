@@ -18,27 +18,38 @@
   <defs
      id="defs2">
     <linearGradient
-       gradientTransform="matrix(1,0,0,-1,1.5119005,319.79731)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient67"
-       id="linearGradient69"
-       x1="-27.214287"
-       y1="75.595238"
-       x2="310.29953"
-       y2="72.436676"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient67">
+       id="linearGradient997"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#3771c8;stop-opacity:1"
+         id="stop993"
          offset="0"
-         id="stop63" />
+         style="stop-color:#3771c8;stop-opacity:1;" />
       <stop
-         style="stop-color:#6600ff;stop-opacity:1"
+         id="stop995"
          offset="1"
-         id="stop65" />
+         style="stop-color:#002255;stop-opacity:1" />
     </linearGradient>
+    <rect
+       x="41.577381"
+       y="72.571426"
+       width="252.84715"
+       height="40.181671"
+       id="rect51" />
+    <rect
+       x="41.577381"
+       y="72.571426"
+       width="252.84715"
+       height="40.181671"
+       id="rect962" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="283.01093"
+       x2="78.141617"
+       y1="239.92163"
+       x1="76.629715"
+       id="linearGradient999"
+       xlink:href="#linearGradient997"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      fit-margin-bottom="0"
@@ -54,7 +65,7 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="161.78104"
+     inkscape:cy="-66.79039"
      inkscape:cx="197.51874"
      inkscape:zoom="0.35"
      inkscape:pageshadow="2"
@@ -85,7 +96,14 @@
        inkscape:export-xdpi="96"
        sodipodi:nodetypes="cccccc"
        id="path24"
-       d="m 249.06738,288.18207 -277.39667,0.59197 v -78.24027 c 46.611387,-7.97526 54.669003,26.96386 136.05244,-5.15629 50.38412,-8.96853 93.22136,-19.09939 139.83233,10.73816 z"
-       style="fill:url(#linearGradient69);fill-opacity:1;stroke:#000000;stroke-width:0.236753px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="m 247.83401,286.81441 -275.884784,-0.10488 v -46.16981 c 41.319727,-7.60401 59.960678,-18.07107 138.320314,-9.56634 86.22313,14.78607 60.7154,7.68888 137.56447,12.95892 z"
+       style="fill:url(#linearGradient999);fill-opacity:1;stroke:none;stroke-width:0.184574px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       id="text49"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect51);fill:#ffffff;fill-opacity:1;stroke:none;"
+       transform="translate(18.421382,184.29349)"><tspan
+         x="41.578125"
+         y="91.21704"><tspan>thanks for coming !</tspan></tspan></text>
   </g>
 </svg>

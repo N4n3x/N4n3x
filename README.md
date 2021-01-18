@@ -1,5 +1,5 @@
-![alt text](./images/top.svg)
-
+<!-- ![alt text](./images/top.svg) -->
+<img width="25%" align="right" alt="Github" src="./images/top.svg" />
 <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 [![Twitter Badge](https://img.shields.io/badge/-@Alexandre-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@hernand98558250)](https://twitter.com/@hernand98558250) 

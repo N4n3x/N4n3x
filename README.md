@@ -7,7 +7,7 @@
 <img alt="Profile visitors" src="https://gpvc.arturio.dev/N4n3x?v=3" />
 
  
-I'm Alexandre, DevOps and project manager from <b>France</b>.
+I'm Alexandre, developer and project manager from <b>France</b>.
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=N4n3x&show_icons=true&count_private=true&hide=issues,contribs" alt="N4n3x" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4n3x&layout=compact&hide=html" alt="N4n3x top langs">
